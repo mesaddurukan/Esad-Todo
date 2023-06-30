@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "marka": "Apple",
+      "model":"iPhone 14 pro",
+      "img":"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF1000,1000_QL80_.jpg",
+      "aciklama": "ios16/3.46GHz/6.1inç/Hafıza 128GB/Ram 6GB"
+    },
+    {
+        "id": 2,
+        "marka": "Samsung",
+        "model":"A52",
+      "img":"https://cdn.akakce.com/samsung/samsung-galaxy-a52-128-gb-z.jpg",
+        "aciklama": "Snapdragon720G/2.3GHz/6.5inç/Hafıza 128GB/Ram 8GB"
+      },
+      {
+        "id": 3,
+        "marka": "Huaweı",
+        "model":"P30 PRO",
+      "img":"https://cdn.akakce.com/huawei/huawei-p30-pro-128-gb-z.jpg",
+
+        "aciklama": "KİRİN980/2.6GHz/6.47inç/Hafıza 256GB/Ram 8GB"
+      }, 
+      {
+        "id": 4,
+        "marka": "Xiaomi",
+      "img":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1678361382.37775060!256x256.png?f=web",
+
+        "model":"13",
+        "aciklama": "Snapdragon8/3.2GHz/6.36inç/Hafıza 256GB/Ram 12GB"
+      },
+      {
+        "id": 5,
+        "marka": "OPPO",
+      "img":"https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno7_4g/listpage/listpage-SunsetOrange-427_600-pc.png.thumb.webp",
+
+        "model":"Reno7",
+        "aciklama": "Snapdragon680/2.4GHz/6.43inç/Hafıza 128GB/Ram 8GB"
+      },
+      {
+        "id": 6,
+        "marka": "Huaweı",
+      "img":"https://cdn.akakce.com/z/huawei/huawei-p60-pro-256-gb-siyah.jpg",
+
+        "model":"P60 PRO",
+        "aciklama": "Snapdragon8/3.2GHz/6.67inç/Hafıza 256GB/Ram 8GB"
+      }, {
+        "id": 7,
+        "marka": "Samsung",
+      "img":"https://images.samsung.com/is/image/samsung/p6pim/tr/2208/gallery/tr-galaxy-z-fold4-f936-sm-f936bzadtur-thumb-533117928?$172_172_PNG$",
+
+        "model":"GALAXY ZFold4",
+        "aciklama": "Qualcomm SM4875/2.73GHz/6.2inç/Hafıza 256GB/Ram 12GB"
+      },
+      {
+        "id": 8,
+        "marka": "Huaweı",
+      "img":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_99783356/fee_240_148_png/",
+
+        "model":"MATE 50 PRO",
+        "aciklama": "snapdragon888/3.20GHz/6.7inç/Hafıza 256GB/Ram 8GB"
+      }
+     
+  ]
+  
